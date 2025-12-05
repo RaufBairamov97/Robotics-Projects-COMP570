@@ -2,12 +2,7 @@
 """
     BSU
     COMP 570 - ROBOTICS
-    PROJECT 3
-    GROUP 1, Team Members: 
-    - Arshjot Saini
-    - Eissa Abdulrahman
-    - Rauf Bairamov
-    - Revanth Reddy Kanubaddi
+    PROJECT 
 """
 
 import os
